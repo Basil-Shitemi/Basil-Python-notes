@@ -60,7 +60,7 @@ WOW
 '''
 print(long_string)
 
-first_name= 'Basil'
+first_name= 'Basil '
 second_name= 'Shitemi'
 full_name= first_name+' ' +second_name
 print(full_name)
