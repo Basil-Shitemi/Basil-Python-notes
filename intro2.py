@@ -457,7 +457,7 @@ print(my_dict)
 my_dict={num:num*2 for num in [1,2,3]}
 print(my_dict)
 #Exercise-comprehension. duplicates
-some_list=['a','b','c','b','d','m','n','n']
+some_list=['a','b','c','b','d','m','n','n','j']
 
 duplicates=list(set([x for x in some_list if some_list.count(x)>1]))
 print(duplicates)
